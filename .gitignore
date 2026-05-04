@@ -1,0 +1,16 @@
+venv
+__pycache__
+*.csv.gz
+*.pkl
+*.json
+*.npy
+*.npz
+*.pt
+iteration1
+iteration2
+wandb
+.ipynb_checkpoints
+iteration1
+iteration2
+runs
+vmog_runs
